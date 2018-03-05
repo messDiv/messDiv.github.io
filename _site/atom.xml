@@ -4,12 +4,22 @@
  <title>Continuousity | Modeling the world</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-05T11:33:49-08:00</updated>
+ <updated>2018-03-05T11:39:49-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
    <email>lukeh@uidaho.edu</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Introduction to project</title>
+   <link href="http://localhost:4000/project-summary"/>
+   <id>http://localhost:4000/project-summary</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;A central challenge in understanding the origins of biodiversity is that, while we can observe and test local ecological phenomena, we must usually infer the longer-term outcomes of these ecological forces indirectly. We propose to develop inferential models at the interface between macroecology and population-level processes, and apply them to...</content>
+ </entry>
 
  
 
@@ -29,26 +39,6 @@
    <id>http://localhost:4000/code-example</id>
    <updated>2017-02-12T00:00:00-08:00</updated>
    <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the first test post.</title>
-   <link href="http://localhost:4000/test-post-1"/>
-   <id>http://localhost:4000/test-post-1</id>
-   <updated>2017-02-11T00:00:00-08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>First blog post</title>
-   <link href="http://localhost:4000/hello-world"/>
-   <id>http://localhost:4000/hello-world</id>
-   <updated>2017-02-10T00:00:00-08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
  </entry>
 
  
