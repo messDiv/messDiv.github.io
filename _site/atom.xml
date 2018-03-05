@@ -4,7 +4,7 @@
  <title>Continuousity | Modeling the world</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-05T12:05:24-08:00</updated>
+ <updated>2018-03-05T12:26:14-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -38,7 +38,7 @@
    <link href="http://localhost:4000/participant-list"/>
    <id>http://localhost:4000/participant-list</id>
    <updated>2018-03-05T00:00:00-08:00</updated>
-   <content type="html">&lt;p&gt;  First name Name Institution Email Rosemary Gillespie UC Berkeley gillespie@berkeley.edu&lt;/p&gt; &lt;p&gt;Mike Hickerson CUNY (New York) mhickerson@gmail.com&lt;/p&gt; &lt;p&gt;Andrew Rominger Santa Fe Institute ajrominger@gmail.com&lt;/p&gt; &lt;p&gt;Jonathan Chase iDiv, Leipzig jonathan.chase@idiv.de&lt;/p&gt; &lt;p&gt;Luke Harmon University of Idaho lukeh@uidaho.edu&lt;/p&gt; &lt;p&gt;Isaac Overcast CUNY (New York) isaac.overcast@gmail.com&lt;/p&gt; &lt;p&gt;Katie Wagner Univ Wyoming catherine.wagner@uwyo.edu&lt;/p&gt; &lt;p&gt;James Rosindell Imperial j.rosindell@imperial.ac.uk&lt;/p&gt; &lt;p&gt;Rampal...</content>
+   <content type="html">&lt;p&gt; &lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Name&lt;/th&gt; &lt;th&gt;Institution&lt;/th&gt; &lt;th&gt;Email&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Rosemary Gillespie&lt;/td&gt; &lt;td&gt;UC Berkeley&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:gillespie@berkeley.edu&quot;&gt;gillespie@berkeley.edu&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Mike Hickerson&lt;/td&gt; &lt;td&gt;CUNY (New York)&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:mhickerson@gmail.com&quot;&gt;mhickerson@gmail.com&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Andrew Rominger&lt;/td&gt; &lt;td&gt;Santa Fe Institute&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:ajrominger@gmail.com&quot;&gt;ajrominger@gmail.com&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Jonathan Chase&lt;/td&gt; &lt;td&gt;iDiv, Leipzig&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:jonathan.chase@idiv.de&quot;&gt;jonathan.chase@idiv.de&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Luke Harmon&lt;/td&gt; &lt;td&gt;University of Idaho&lt;/td&gt;...</content>
  </entry>
 
  
