@@ -4,7 +4,7 @@
  <title>Continuousity | Modeling the world</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-05T11:41:06-08:00</updated>
+ <updated>2018-03-05T12:05:00-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -14,11 +14,31 @@
  
 
  <entry>
+   <title>Schedule (brainstorming)</title>
+   <link href="http://localhost:4000/schedule-idea"/>
+   <id>http://localhost:4000/schedule-idea</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;this meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00 pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant Amaroso (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00 am&lt;/td&gt; &lt;td&gt;Registration...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Continuousity project summary</title>
    <link href="http://localhost:4000/project-summary"/>
    <id>http://localhost:4000/project-summary</id>
    <updated>2018-03-05T00:00:00-08:00</updated>
    <content type="html">&lt;p&gt;A central challenge in understanding the origins of biodiversity is that, while we can observe and test local ecological phenomena, we must usually infer the longer-term outcomes of these ecological forces indirectly. We propose to develop inferential models at the interface between macroecology and population-level processes, and apply them to...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Participant list - March 2018</title>
+   <link href="http://localhost:4000/participant-list"/>
+   <id>http://localhost:4000/participant-list</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;  First name Name Institution Email Rosemary Gillespie UC Berkeley gillespie@berkeley.edu&lt;/p&gt; &lt;p&gt;Mike Hickerson CUNY (New York) mhickerson@gmail.com&lt;/p&gt; &lt;p&gt;Andrew Rominger Santa Fe Institute ajrominger@gmail.com&lt;/p&gt; &lt;p&gt;Jonathan Chase iDiv, Leipzig jonathan.chase@idiv.de&lt;/p&gt; &lt;p&gt;Luke Harmon University of Idaho lukeh@uidaho.edu&lt;/p&gt; &lt;p&gt;Isaac Overcast CUNY (New York) isaac.overcast@gmail.com&lt;/p&gt; &lt;p&gt;Katie Wagner Univ Wyoming catherine.wagner@uwyo.edu&lt;/p&gt; &lt;p&gt;James Rosindell Imperial j.rosindell@imperial.ac.uk&lt;/p&gt; &lt;p&gt;Rampal...</content>
  </entry>
 
  
