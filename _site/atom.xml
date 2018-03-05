@@ -4,7 +4,7 @@
  <title>Continuousity | Modeling the world</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-05T11:41:06-08:00</updated>
+ <updated>2018-03-05T12:26:14-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -14,11 +14,31 @@
  
 
  <entry>
+   <title>Schedule (brainstorming)</title>
+   <link href="http://localhost:4000/schedule-idea"/>
+   <id>http://localhost:4000/schedule-idea</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;this meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00 pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant Amaroso (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00 am&lt;/td&gt; &lt;td&gt;Registration...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Continuousity project summary</title>
    <link href="http://localhost:4000/project-summary"/>
    <id>http://localhost:4000/project-summary</id>
    <updated>2018-03-05T00:00:00-08:00</updated>
    <content type="html">&lt;p&gt;A central challenge in understanding the origins of biodiversity is that, while we can observe and test local ecological phenomena, we must usually infer the longer-term outcomes of these ecological forces indirectly. We propose to develop inferential models at the interface between macroecology and population-level processes, and apply them to...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Participant list - March 2018</title>
+   <link href="http://localhost:4000/participant-list"/>
+   <id>http://localhost:4000/participant-list</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt; &lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Name&lt;/th&gt; &lt;th&gt;Institution&lt;/th&gt; &lt;th&gt;Email&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Rosemary Gillespie&lt;/td&gt; &lt;td&gt;UC Berkeley&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:gillespie@berkeley.edu&quot;&gt;gillespie@berkeley.edu&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Mike Hickerson&lt;/td&gt; &lt;td&gt;CUNY (New York)&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:mhickerson@gmail.com&quot;&gt;mhickerson@gmail.com&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Andrew Rominger&lt;/td&gt; &lt;td&gt;Santa Fe Institute&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:ajrominger@gmail.com&quot;&gt;ajrominger@gmail.com&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Jonathan Chase&lt;/td&gt; &lt;td&gt;iDiv, Leipzig&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:jonathan.chase@idiv.de&quot;&gt;jonathan.chase@idiv.de&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Luke Harmon&lt;/td&gt; &lt;td&gt;University of Idaho&lt;/td&gt;...</content>
  </entry>
 
  
