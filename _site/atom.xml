@@ -4,7 +4,7 @@
  <title>Continuousity | Modeling the world</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-06T11:09:35-08:00</updated>
+ <updated>2018-03-06T11:15:12-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -24,7 +24,7 @@
  
 
  <entry>
-   <title>Continuousity project summary</title>
+   <title>messDiv project summary</title>
    <link href="http://localhost:4000/project-summary"/>
    <id>http://localhost:4000/project-summary</id>
    <updated>2018-03-05T00:00:00-08:00</updated>

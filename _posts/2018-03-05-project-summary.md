@@ -1,5 +1,5 @@
 ---
-title: Continuousity project summary
+title: messDiv project summary
 description: Broad overview of the whole project
 header: Project summary
 ---
