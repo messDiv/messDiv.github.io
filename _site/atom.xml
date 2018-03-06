@@ -4,7 +4,7 @@
  <title>Continuousity | Modeling the world</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-05T12:26:14-08:00</updated>
+ <updated>2018-03-06T11:09:16-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -18,7 +18,7 @@
    <link href="http://localhost:4000/schedule-idea"/>
    <id>http://localhost:4000/schedule-idea</id>
    <updated>2018-03-05T00:00:00-08:00</updated>
-   <content type="html">&lt;p&gt;this meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00 pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant Amaroso (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00 am&lt;/td&gt; &lt;td&gt;Registration...</content>
+   <content type="html">&lt;p&gt;This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00_pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant Amaroso (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00_am&lt;/td&gt; &lt;td&gt;Registration and Introduction&lt;/td&gt;...</content>
  </entry>
 
  
