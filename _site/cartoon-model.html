@@ -151,10 +151,11 @@ MathJax.Hub.Config({
 
 <p>First, we set up the <em>regional species pool</em>.</p>
 
+<p><img src="/img/fig_mod.jpg" alt="Steps 1 and 2." /></p>
+
 <ol>
   <li>Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.</li>
-  <li>Simulate species’ traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.
- <img src="/img/steps1-2.jpg" alt="Steps 1 and 2." /></li>
+  <li>Simulate species’ traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.</li>
   <li>Draw abundances from a logseries distribution and randomly assign them to tips on the tree. This is now the mainland species pool.</li>
   <li>
     <p>We now prepopulate the island community with a starting community. This can be done in two ways, volcanic or landbridge, as follows.</p>
@@ -173,7 +174,7 @@ MathJax.Hub.Config({
 
     <div>
  $$
- p_i = e^{\frac{(z_i - \theta)^2}{w^2_{hf}}}
+ p_i = e^{\frac{(z_i - z_{opt})^2}{w^2_{hf}}}
  $$
  </div>
 

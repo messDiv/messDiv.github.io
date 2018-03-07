@@ -4,7 +4,7 @@
  <title>messDiv | Massive Eco-evolutionary Synthesis Simulation at sDiv</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-07T14:38:35-08:00</updated>
+ <updated>2018-03-07T14:40:53-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -18,7 +18,7 @@
    <link href="http://localhost:4000/cartoon-model"/>
    <id>http://localhost:4000/cartoon-model</id>
    <updated>2018-03-06T00:00:00-08:00</updated>
-   <content type="html">&lt;p&gt;The model as of right now works as follows.&lt;/p&gt; &lt;p&gt;First, we set up the &lt;em&gt;regional species pool&lt;/em&gt;.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.&lt;/li&gt; &lt;li&gt;Simulate species’ traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$....</content>
+   <content type="html">&lt;p&gt;The model as of right now works as follows.&lt;/p&gt; &lt;p&gt;First, we set up the &lt;em&gt;regional species pool&lt;/em&gt;.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/fig_mod.jpg&quot; alt=&quot;Steps 1 and 2.&quot; /&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.&lt;/li&gt; &lt;li&gt;Simulate species’ traits under a Brownian motion model with...</content>
  </entry>
 
  
