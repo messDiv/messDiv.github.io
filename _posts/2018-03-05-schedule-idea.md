@@ -1,13 +1,13 @@
 ---
-title: Schedule (brainstorming)
-description: An idea for what the schedule might be
+title: Schedule
+description: A draft schedule
 ---
 This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.
 
 # Sunday 18 March 2018
 
 | --- | --- |
-| 7:00 pm | Dinner reservation in the restaurant Amaroso (in Balance Hotel) |
+| 7:00 pm | Dinner reservation in the restaurant [Amaroso](https://www.amaroso-leipzig.de/) (in Balance Hotel) |
 
 # Monday 19th March
 
@@ -38,7 +38,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 9:00 am  | Breakout groups - 1. Model details (Overcast) 2. Empirical systems (Gillespie) 3. Inference (Rominger) |
 | 10:15 am | Summary of breakout groups |
 | 10:30 am | Coffee Break |
-| 11:00 am | Group discussion - approach strengths and weaknesses |
+| 11:00 am | Group discussion of project strengths and weaknesses |
 | 1:00 pm	 | Lunch |
 | 2:00 pm  | Introduction of spin-off projects |
 | 2:15 pm	 | Breakout session: spin-off projects |

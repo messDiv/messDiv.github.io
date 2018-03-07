@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Continuousity | Modeling the world</title>
+ <title>messDiv | Massive Eco-evolutionary Synthesis Simulation at sDiv</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-03-06T14:11:46-08:00</updated>
+ <updated>2018-03-06T15:17:19-08:00</updated>
  <author>
    <name>sDiv working group</name>
    <uri></uri>
@@ -14,11 +14,21 @@
  
 
  <entry>
-   <title>Schedule (brainstorming)</title>
+   <title>The messDiv model</title>
+   <link href="http://localhost:4000/cartoon-model"/>
+   <id>http://localhost:4000/cartoon-model</id>
+   <updated>2018-03-06T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;The model as of right now works as follows.&lt;/p&gt; &lt;p&gt;First, we set up the &lt;em&gt;regional species pool&lt;/em&gt;.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.&lt;/li&gt; &lt;li&gt;Simulate species’ traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.&lt;/li&gt;...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Schedule</title>
    <link href="http://localhost:4000/schedule-idea"/>
    <id>http://localhost:4000/schedule-idea</id>
    <updated>2018-03-05T00:00:00-08:00</updated>
-   <content type="html">&lt;p&gt;This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00 pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant Amaroso (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00 am&lt;/td&gt; &lt;td&gt;Registration...</content>
+   <content type="html">&lt;p&gt;This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00 pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant &lt;a href=&quot;https://www.amaroso-leipzig.de/&quot;&gt;Amaroso&lt;/a&gt; (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00 am&lt;/td&gt;...</content>
  </entry>
 
  
