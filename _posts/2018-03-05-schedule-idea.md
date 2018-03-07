@@ -46,6 +46,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 2:00 pm | Working in small groups |
 | 3:30 pm  | Coffee break |
 | 4:00 pm  | Working in small groups |
+| 4:30 pm | Summarize group work |
 | 5:00 pm  | End |
 | 6:00 pm  | Sightseeing Tour: guided 1 h walking tour through the city centre in English. Starting point: [Demokratieglocke on Augustusplatz](https://goo.gl/maps/XCwxnSjUqyN2) |
 | 7:00 pm  | Dinner |
