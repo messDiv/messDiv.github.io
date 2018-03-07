@@ -35,7 +35,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 
 | --- | --- |
 | 8:30 am  |	Overview of empirical data sets |
-| 9:00 am  | Breakout groups on leading topics. For example, model details, empirical systems, inference, and other topics of interest |
+| 9:00 am  | Breakout groups on leading topics. For example, model details, empirical systems, inference, scaling, and other topics of interest |
 | 10:15 am | Summary of breakout groups |
 | 10:30 am | Coffee Break |
 | 11:00 pm  | Introduction of spin-off projects |
