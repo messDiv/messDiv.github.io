@@ -5,13 +5,11 @@ header: Cartoon model
 ---
 The model as of right now works as follows.
 
-First, we set up the *regional species pool*.
-
-![Steps 1 and 2.]({{ site.baseurl }}/img/fig_mod.jpg)
+![Steps 1 and 2.]({{ site.baseurl }}/img/fig_mod.jpg =300x)
 
 1. Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.
 2. Simulate species' traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.
-3. Draw abundances from a logseries distribution and randomly assign them to tips on the tree. This is now the mainland species pool.
+3. Draw abundances from a logseries distribution and randomly assign them to tips on the tree. *This is now the mainland species pool.*
 4. We now prepopulate the island community with a starting community. This can be done in two ways, volcanic or landbridge, as follows.
 
     In the volcanic scenario, the island is first filled with "empty niche" individuals who take up space that will later be occupied by real individuals.
