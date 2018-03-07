@@ -167,9 +167,10 @@ MathJax.Hub.Config({
 
     <p>For the landbridge scenario, individuals are chosen at random from the mainland pool until the local community is full. The simulation then begins from this randomly selected community.</p>
   </li>
-  <li>The simulation is now run as follows: for each time step, one individuals dies in the island community. The individual that dies is either random (neutral case) or depends on either competition or environmental filtering.
- Under <em>environmental filtering</em>, each individual has a relative chance of death that depends on how different its trait ($z_i$) is from the environmental optimum ($/theta$):
-hf = exp(-(theta-zi)^2/w_hf^2)
+  <li>
+    <p>The simulation is now run as follows: for each time step, one individuals dies in the island community. The individual that dies is either random (neutral case) or depends on either competition or environmental filtering.
+ Under <em>environmental filtering</em>, each individual has a relative chance of death that depends on how different its trait ($z_i$) is from the environmental optimum ($/theta$):</p>
+
     <div>
  $$
  p_i = e^{\frac{(z_i - \theta)^2}{w^2_{hf}}}
