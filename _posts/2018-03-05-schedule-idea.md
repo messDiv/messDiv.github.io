@@ -56,13 +56,14 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 
 | --- | --- |
 | 8:30 am  |	Reassessment of working group goals, potential papers and deliverables |
+| 9:30 am  | Work in small groups |
 | 10:30 am | Coffee Break |
-| 11:00 am | Divide into subgroups according to goals above, and work on timelines |
+| 11:00 am | Work in small groups |
 | 11:45 pm	 | Lunch |
 | 12:30 pm  | iDiv seminar series public talk and get-together |
-| 2:00 pm	 | Discussion of overall insights and goals of whole group |
+| 2:00 pm	 | Work in small groups with cross-pollinators |
 | 3:30 pm  | Coffee break |
-| 4:00 pm  | Breakout groups to develop individual aspects that are developing. |
+| 4:00 pm  | Small group presentations |
 | 5:00 pm  | End |
 | 7:00 pm  | Dinner |
 
