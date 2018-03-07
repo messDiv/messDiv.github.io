@@ -73,13 +73,13 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 
 | --- | --- |
 | 9:00 am  | Reimbursement info by the sDiv admin team |
-| 9:10 am | Break out groups work on different components that they are developing |
+| 9:10 am | Work in small groups |
 | 10:30 am | Coffee Break |
-| 11:00 am | Subgroups work in parallel |
+| 11:00 am | Work in small groups |
 | 1:00 pm	 | Lunch |
-| 2:00 pm  | Discussion of overall insights and goals of whole group  |
+| 2:00 pm  | Work in small groups  |
 | 3:30 pm  | Coffee break |
-| 4:00 pm  | Identifying next steps, timelines, deliverables |
+| 4:00 pm  | Discussion - overall insights, next steps, timelines, deliverables |
 | 5:00 pm  | End |
 | 7:00 pm  | Dinner |
 
@@ -87,7 +87,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 
 | --- | --- |
 | 8:30 am | Appraisal of where we are at |
-| 9:00 am  | Assignment of tasks |
+| 9:00 am  | Final presentations from small groups |
 | 10:30 am | Coffee Break |
 | 11:00 am | Summary of next steps and assignments of tasks |
 | 12:30 pm | Official end of working group |
