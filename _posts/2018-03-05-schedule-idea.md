@@ -15,7 +15,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 9:00 am  |	Registration and Introduction |
 |          | *Marten Winter* |
 | 9:20 am  | Working group - brief overview |
-|          | *Gillespie, Rominger, Overcast* |
+|          | *Gillespie, Hickerson* |
 | 9:30 am  | Each participant gives intro short presentations
 |          | 5 mins, 1 min questions |
 |          | (1) Your own work; and (2) Expectations and motivations |
@@ -23,11 +23,11 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 11:00 am | Short presentations continue |
 | 1:00 pm	 | Lunch |
 | 2:00 pm	 | Brief introduction to goals |
-|          | *Chase, Gillespie, Harmon, Hickerson, Rominger* |
+|          | *Rominger, Overcast* |
 | 2:15 pm  | Goals breakout groups |
 | 3:15 pm  | Brief summary of breakout groups |
 | 3:30 pm  | Coffee break |
-| 4:00 pm  | Synthesis of goals across groups |
+| 4:00 pm  | Synthesis of goals across groups *Chase, Harmon* |
 | 5:00 pm  | End |
 | 7:00 pm  | Dinner |
 
@@ -35,7 +35,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 
 | --- | --- |
 | 8:30 am  |	Overview of empirical data sets |
-| 9:00 am  | Breakout groups - 1. Model details (Overcast) 2. Empirical systems (Gillespie) 3. Inference (Rominger) |
+| 9:00 am  | Breakout groups on leading topics. For example, model details, empirical systems, inference, and other topics of interest |
 | 10:15 am | Summary of breakout groups |
 | 10:30 am | Coffee Break |
 | 11:00 pm  | Introduction of spin-off projects |

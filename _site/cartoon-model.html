@@ -153,29 +153,20 @@ MathJax.Hub.Config({
 
 <ol>
   <li>Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.</li>
-  <li>Simulate species’ traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.</li>
-</ol>
-
-<p><img src="/img/steps1-2.jpg" alt="Steps 1 and 2." /></p>
-
-<ol>
-  <li>
-    <p>Draw abundances from a logseries distribution and randomly assign them to tips on the tree. This is now the mainland species pool.</p>
-  </li>
+  <li>Simulate species’ traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.
+ <img src="/img/steps1-2.jpg" alt="Steps 1 and 2." /></li>
+  <li>Draw abundances from a logseries distribution and randomly assign them to tips on the tree. This is now the mainland species pool.</li>
   <li>
     <p>We now prepopulate the island community with a starting community. This can be done in two ways, volcanic or landbridge, as follows.</p>
+
+    <p>In the volcanic scenario, the island is first filled with “empty niche” individuals who take up space that will later be occupied by real individuals.</p>
+
+    <p>We then choose one individual from the most abundant species on the mainland. This individual colonizes the island.</p>
+
+    <p>When deaths occur, the “empty niche” individuals die at the same rate as normal indivduals, but can’t give birth. So, they are eventually replaced by real simulated creatures.</p>
+
+    <p>For the landbridge scenario, individuals are chosen at random from the mainland pool until the local community is full. The simulation then begins from this randomly selected community.</p>
   </li>
-</ol>
-
-<p>In the volcanic scenario, the island is first filled with “empty niche” individuals who take up space that will later be occupied by real individuals.</p>
-
-<p>We then choose one individual from the most abundant species on the mainland. This individual colonizes the island.</p>
-
-<p>When deaths occur, the “empty niche” individuals die at the same rate as normal indivduals, but can’t give birth. So, they are eventually replaced by real simulated creatures.</p>
-
-<p>For the landbridge scenario, individuals are chosen at random from the mainland pool until the local community is full. The simulation then begins from this randomly selected community.</p>
-
-<ol>
   <li>The simulation is now run as follows: for each time step, one individuals dies in the island community. The individual that dies is either random (neutral case) or depends on either competition or environmental filtering.</li>
 </ol>
 
