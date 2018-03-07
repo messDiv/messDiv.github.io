@@ -26,7 +26,7 @@ First, we set up the *regional species pool*.
 
     <div>
     $$
-    p_i = e^{\frac{(z_i - \theta)^2}{w^2_{hf}}}
+    p_i = e^{\frac{(z_i - z_{opt})^2}{w^2_{hf}}}
     $$
     </div>
 
