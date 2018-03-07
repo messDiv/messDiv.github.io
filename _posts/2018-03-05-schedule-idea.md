@@ -38,13 +38,14 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 9:00 am  | Breakout groups - 1. Model details (Overcast) 2. Empirical systems (Gillespie) 3. Inference (Rominger) |
 | 10:15 am | Summary of breakout groups |
 | 10:30 am | Coffee Break |
-| 11:00 am | Group discussion of project strengths and weaknesses |
+| 11:00 pm  | Introduction of spin-off projects |
+| 11:15 pm	 | Breakout session: spin-off projects |
+| 12:15 pm  | Brief summary of breakout groups |
+| 12:30 pm | Sorting into groups by afternoon |
 | 1:00 pm	 | Lunch |
-| 2:00 pm  | Introduction of spin-off projects |
-| 2:15 pm	 | Breakout session: spin-off projects |
-| 3:15 pm  | Brief summary of breakout groups |
+| 2:00 pm | |
 | 3:30 pm  | Coffee break |
-| 4:00 pm  | Reporting back and discussion of overall direction and spin-off projects. Assign leaders |
+| 4:00 pm  |  |
 | 5:00 pm  | End |
 | 6:00 pm  | Sightseeing Tour: guided 1 h walking tour through the city centre in English. Starting point: [Demokratieglocke on Augustusplatz](https://goo.gl/maps/XCwxnSjUqyN2) |
 | 7:00 pm  | Dinner |
