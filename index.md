@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: page
+title: About messDiv
+description: This page describes the whole project.
 ---
+
+![cat]({{ site.baseurl }}/img/cat.png)
+
 <!-- Posts -->
 <ul id="posts">
 
