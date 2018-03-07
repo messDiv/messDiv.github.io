@@ -25,7 +25,7 @@ First, we set up the *regional species pool*.
 hf = exp(-(theta-zi)^2/w_hf^2)
     <div>
     $$
-    p_i = e^{\frac{(theta - z_i)^2}{w^2_{hf}}}
+    p_i = e^{\frac{(\theta - z_i)^2}{w^2_{hf}}}
     $$
     </div>
 
