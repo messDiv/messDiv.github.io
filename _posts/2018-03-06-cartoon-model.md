@@ -22,19 +22,19 @@ First, we set up the *regional species pool*.
 
     For the landbridge scenario, individuals are chosen at random from the mainland pool until the local community is full. The simulation then begins from this randomly selected community.
 5. The simulation is now run as follows: for each time step, one individuals dies in the island community. The individual that dies is either random (neutral case) or depends on either competition or environmental filtering.
-    Under *environmental filtering*, each individual has a relative chance of death that depends on how different its trait ($x_i$) is from the environmental optimum ($x_{opt}$):
+    Under *environmental filtering*, each individual has a relative chance of death that depends on how different its trait ($z_i$) is from the environmental optimum ($/theta$):
 
     <div>
     $$
-    p_i = e^{\frac{(x_i - x_{opt})^2}{w_{env}}}
+    p_i = e^{\frac{(z_i - \theta)^2}{w^2_{hf}}}
     $$
     </div>
 
-    Under *competition*, each individual has a relative chance of death that depends on how different its trait ($x_i$) is from the other individuals in the community ($x_j$):
+    Under *competition*, each individual has a relative chance of death that depends on how different its trait ($z_i$) is from the other individuals in the community ($z_j$):
 
     <div>
     $$
-    p_i = e^{\frac{(x_i - x_j)^2}{w_{c}}}
+    p_i = 1 - e^{\frac{(z_i - z_j)^2}{w^2_{c}}}
     $$
     </div>
 
