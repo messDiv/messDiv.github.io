@@ -93,4 +93,4 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 12:30 pm | Official end of working group |
 | 1:00 pm	 | Lunch |
 | 2:00 pm  | Informal discussion among leads |
-| 7:00 pm  | Dinner |
+| 7:00 pm  | Dinner* |
