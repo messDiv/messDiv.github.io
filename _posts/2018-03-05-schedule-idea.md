@@ -32,7 +32,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 7:00 pm  | Dinner |
 
 # Tuesday 20 March
- 
+
 | --- | --- |
 | 8:30 am  |	Overview of empirical data sets |
 | 9:00 am  | Breakout groups - 1. Model details (Overcast) 2. Empirical systems (Gillespie) 3. Inference (Rominger) |
@@ -49,8 +49,9 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 6:00 pm  | Sightseeing Tour: guided 1 h walking tour through the city centre in English. Starting point: [Demokratieglocke on Augustusplatz](https://goo.gl/maps/XCwxnSjUqyN2) |
 | 7:00 pm  | Dinner |
 
+
 # Wednesday 21 March
- 
+
 | --- | --- |
 | 8:30 am  |	Reassessment of working group goals, potential papers and deliverables |
 | 10:30 am | Coffee Break |
@@ -64,8 +65,9 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 7:00 pm  | Dinner |
 
 
+
 # Thursday 22 March
- 
+
 | --- | --- |
 | 9:00 am  | Reimbursement info by the sDiv admin team |
 | 9:10 am | Break out groups work on different components that they are developing |
@@ -79,7 +81,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 7:00 pm  | Dinner |
 
 # Friday 23 March
- 
+
 | --- | --- |
 | 8:30 am | Appraisal of where we are at |
 | 9:00 am  | Assignment of tasks |
