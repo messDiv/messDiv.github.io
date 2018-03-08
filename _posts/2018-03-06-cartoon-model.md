@@ -5,7 +5,7 @@ header: Cartoon model
 ---
 The model as of right now works as follows.
 
-![Steps 1 and 2.]({{ site.baseurl }}/img/fig_mod.jpg =300x)
+![Schematic of regional pool and local community processes.]({{ site.baseurl }}/img/fig_mod.jpg)
 
 1. Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.
 2. Simulate species' traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.
