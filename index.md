@@ -9,7 +9,7 @@ description: This page describes the whole project.
 <!-- Posts -->
 <ul id="posts">
 
-	{% for post in paginator.posts %}
+	{% for post in site.posts %}
 
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
