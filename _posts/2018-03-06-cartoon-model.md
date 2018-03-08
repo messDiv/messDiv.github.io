@@ -7,7 +7,7 @@ The model as of right now works as follows.
 
 ![Schematic of regional pool and local community processes.]({{ site.baseurl }}/img/fig_mod.jpg)
 
-1. Simulate a phylogenetic tree under a birth-death model with birth rate $\lambda$ and death rate $\mu$.
+1. Simulate a phylogenetic tree under a speciation-extinction model with birth rate $\lambda$ and death rate $c\lambda$ where $c$ determines the proportion of extinction relative to speciation and is bounded between 0 and 1.
 2. Simulate species' traits under a Brownian motion model with parameters starting value $\theta$ and variance $\sigma^2$.
 3. Draw abundances from a logseries distribution and randomly assign them to tips on the tree. *This is now the mainland species pool.*
 4. We now prepopulate the island community with a starting community. This can be done in two ways, volcanic or landbridge, as follows.
