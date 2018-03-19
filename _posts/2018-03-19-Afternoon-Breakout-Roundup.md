@@ -1,5 +1,4 @@
-## Condensed list of ideas that occurred in multiple groups or inspired lively conversation:
-
+### Condensed list of ideas that occurred in multiple groups or inspired lively conversation:
 * Speciation needs to be more explicitly modelled in both the local and regional pools, perhaps with some kind of 'knob' or 'dial'.
     * Not clear whether this knob should go only up to or perhaps beyond 10.
     * Also, need to allow for endemics and endemic radiations, and adaptive radiations. 
@@ -8,8 +7,7 @@
     * How do species traits evolve in these communities and how it relates to abundances?
     * Do island species explore their niches faster?
 
-## Unvarnished thoughts from all the groups following the monday afternoon breakout session.
-
+### Unvarnished thoughts from all the groups following the monday afternoon breakout session.
 ### Group 1
 
 * Having interactions in the local community feed back on the phylogeny is important.
