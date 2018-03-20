@@ -9,6 +9,8 @@ A central challenge in understanding the origins of biodiversity is that, while 
 
 You can read about the preliminary mechanics of this model [here](https://messdiv.github.io/cartoon-model).
 
+This is of course based on a large existing literature which we summarize [here](https://messdiv.github.io/messDiv_readings).
+
 ## Participants
 
 | Name | Institution |	Email |
