@@ -1,14 +1,24 @@
 
 >20  * How does system size (and isolation) determine community assembly on evolutionary timescales?
+
 >15  * What are the mechanisms that drive radiations?
+
 >15  * What is the effect of habitat dynamics (e.g. island ontogeny) in determining present-day biodiversity patterns?
+
 >10  * What determines resistance to invasion?
+
 >14  * Where is the diversity emerging, at the alpha level or at the beta level? Corrolary: Where do novel ecotypes come from? From evolution or dispersal?
+
 >5   * Does speciation fill niche space or create niches; does diversity beget diversity?
+
 >7   * Are commonness and rarity persistent across space and time?
+
 >4   * How does abundance partition into different clades? Does a clade's richness in a community correlate with the overall richness of the community?
+
 >5   * What are the limits to species richness?
+
 >6   * Are there limits to predictability of ecosystems (how much is truly stochastic)?
+
 >6   * What's the role of speciation in modifying networks?
 
 ### Habitat Dynamics/Island Ontogeny
