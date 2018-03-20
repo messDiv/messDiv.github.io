@@ -30,7 +30,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 3:30 pm  | Coffee break |
 | 4:00 pm  | Synthesis of goals across groups *Chase, Harmon* |
 | 5:00 pm  | End |
-| 7:00 pm  | Dinner |
+| 7:00 pm  | Dinner at [Wenzels Prager Bierstuben](https://www.wenzel-bierstuben.de/standorte/leipzig/)|
 
 # Tuesday 20 March
 
