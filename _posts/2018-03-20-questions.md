@@ -1,7 +1,7 @@
 ---
 title: Key questions
 description: Key questions
-header: ?
+header: watdo
 ---
 
 Here is a list of ideas for key questions, meant to spur discusssion.
