@@ -9,8 +9,6 @@
 * A couple figures with ecologcial and evolutionary variables coming together as a means for generating hypotheses.
 * Maybe aim for GEB
 
-**"A lot of these Framework papers are quite lame."** - Not this one though, just those other ones ;)
-
 ### 2) Invasiveness - Nativeness + Invasiveness
 * Lead - Jairo Patino
 * Compare across different archipelagos the level of species richeness components (native, endemic, exotic) to see how SAR varies.
@@ -48,6 +46,7 @@
 * You can trick a spatially explicit model by making patches localities and implementing a strange dispersal kernel.
 
 **"As long as its neutral its possible."** - J. Rosindell's new catch phrase.
+
 **"And would you want data?..."** ... **"No."**
 
 ### 5) Island Ontogeny - Effect of island ontogeny/habitat dynamics on diversity patterns
@@ -105,4 +104,5 @@
     * Environment too
 
 **"I looked at it again and I found it."**
+
 **"Question mark doesn't imply lack of enthusiasm."**
