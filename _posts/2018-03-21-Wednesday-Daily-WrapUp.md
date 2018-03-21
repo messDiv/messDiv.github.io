@@ -21,7 +21,7 @@
     * Vegetation types
     * (Holger Kreft & Global vegetational network have a butt-load of island plant native/invasive data).
 
-**"I have a cholroplast bias."**
+**"I have a chloroplast bias."**
 
 ### 2.5) Role of functional groups in plot-level abundance and invasions.
 * Lead - ? (Proposed by Paulo Borges)
