@@ -76,12 +76,33 @@
 * Could you use Fst to differentiate or identify taxonomic bias (radiation by oversplitting).
     * "Speciation-by-taxonomist"
 
-**'Just why radiate' is enough**
+**'Just why radiate' is enough.**
 
 ### Radiations - Mechanistic model of radiations
 * Lead - ? et al
 * Uber-MESS model (Look at all the things the mess model can doe).
 * Kinds of data:
     * Loads of data
+
+### MESS
+* Lead - Isaac Overcast
+* Depending on what we add this could fold in the mechanistic model from above.
+
+### Review paper on macroecology and paleontology
+* Lead - Katie Wagner
+* Review of concepts from paleontology and macroecology and ecological theory
+
+### Do abundant island clades radiate more than rares?
+* Lead - Andy Rominger
+* Using data from islands to explore whether abundant species radiate more than rare species
+* (This could be folded in with the previous idea).
+* Kinds of data:
+    * Plot level abundance data
+    * Metadata about islands
+    * Phylogenies for taxa within plots (if they are available)
+    * Population genetic data to evaluate constancy of abundance through time
+    * Environment too
+
+**I looked at it again and I found it.**
 
 
