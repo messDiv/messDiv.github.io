@@ -36,5 +36,11 @@
 * Katie & Luke - Speciation & Abundance (diversification scales with area, but sometimes it doesn't)
 * No Lead - What are patterns under extremes of the model?
 
+## General Chatter
+* Afternoon Breakout groups - Framework, invasions alpha/beta scaling, modelling alpha/beta scaling
+
+
 ## Afternoon quotes
 **The amount of work required to do science is much than us just sitting here for five days.**
+**The idea is to have allopatric diversification of ideas.**
+
