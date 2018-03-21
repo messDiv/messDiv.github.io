@@ -23,6 +23,10 @@
 
 **"I have a cholroplast bias."**
 
+### 2.5) Role of functional groups in plot-level abundance and invasions.
+* Lead - ? (Proposed by Paulo Borges)
+
+
 ### 3) Alpha/Beta - The role of diversification in shaping local community structure on islands.
 * Lead - Luke Mahler
 * Kinds of data:
@@ -94,7 +98,6 @@
 ### 10) Do abundant island clades radiate more than rares?
 * Lead - Andy Rominger
 * Using data from islands to explore whether abundant species radiate more than rare species
-* Does diversity beget diversity?
 * (This could be folded in with the previous idea).
 * Kinds of data:
     * Plot level abundance data
@@ -106,3 +109,15 @@
 **"I looked at it again and I found it."**
 
 **"Question mark doesn't imply lack of enthusiasm."**
+
+**"If you've got ten, then you might as well go to eleven."**
+
+### 11) Does diversity beget diversity?
+* Lead - ? (Raised by Andy Rominger and 2nd'd by James)
+
+### 12) Applying METE to volcanic archiplagos
+* Lead - ? (Raised by Paulo Borges)
+
+## General Chatter
+
+**"There are some new heterogeneities that we need to account for."**
