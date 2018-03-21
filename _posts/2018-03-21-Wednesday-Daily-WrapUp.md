@@ -1,6 +1,6 @@
 ## Paper ideas reporting back
 
-### Framework - Macroecology + Macroevolution
+### 1) Framework - Macroecology + Macroevolution
 * Lead - Brian McGill
 * Idea for a quick and dirty paper
 * Call for macroecologists and macroevolutionary biologists to work more closely together even though there has been some progress lately with the eco-evo modelling stuff that's been happening lately.
@@ -9,9 +9,9 @@
 * A couple figures with ecologcial and evolutionary variables coming together as a means for generating hypotheses.
 * Maybe aim for GEB
 
-**A lot of these Framework papers are quite lame.**
+**"A lot of these Framework papers are quite lame."** - Not this one though, just those other ones ;)
 
-### Invasiveness - Nativeness + Invasiveness
+### 2) Invasiveness - Nativeness + Invasiveness
 * Lead - Jairo Patino
 * Compare across different archipelagos the level of species richeness components (native, endemic, exotic) to see how SAR varies.
     * Compare across taxonomic groups: Plants, lizards, birds, arthropods
@@ -23,9 +23,9 @@
     * Vegetation types
     * (Holger Kreft & Global vegetational network have a butt-load of island plant native/invasive data).
 
-**I have a cholroplast bias.**
+**"I have a cholroplast bias."**
 
-### Alpha/Beta - The role of diversification in shaping local community structure on islands.
+### 3) Alpha/Beta - The role of diversification in shaping local community structure on islands.
 * Lead - Luke Mahler
 * Kinds of data:
     * Whether an island has in situ speciation or not w/in an island
@@ -38,7 +38,7 @@
         * Also climate, elevation, vegetation
         * Also genetic data (Fst)
 
-### Alpha/Beta - Alpha/beta area curves under a neutral island model.
+### 4) Alpha/Beta - Alpha/beta area curves under a neutral island model.
 * Lead - Ben Peter
 * Community structure from a neutral perspective
 * How alpha/beta diversity would change as area increases?
@@ -47,10 +47,10 @@
 * Force immigration from the mainland
 * You can trick a spatially explicit model by making patches localities and implementing a strange dispersal kernel.
 
-**As long as its neutral its possible.** - J. Rosindell's new catch phrase.
-**And would you want data?...** ... **No.**
+**"As long as its neutral its possible."** - J. Rosindell's new catch phrase.
+**"And would you want data?..."** ... **"No."**
 
-### Island Ontogeny - Effect of island ontogeny/habitat dynamics on diversity patterns
+### 5) Island Ontogeny - Effect of island ontogeny/habitat dynamics on diversity patterns
 * Lead - Rampal Etienne
 * Not so much modelling, but really can we detect that from data!
 * Is there an effect of island ontogeny on island diversity patterns?
@@ -66,7 +66,7 @@
     * All the other data (phylogenies, etc, etc)
     * Jairo/Rosie have lots of data that would be appropriate for this.
 
-### Radiation - Why radiate?
+### 6) Radiation - Why radiate?
 * Lead - ? et al (but see James Rosindell)
 * Whether certain taxa are special, what causes them to radiate, whether something causes them to radiate in islands.
 * Kinds of data:
@@ -76,25 +76,26 @@
 * Could you use Fst to differentiate or identify taxonomic bias (radiation by oversplitting).
     * "Speciation-by-taxonomist"
 
-**'Just why radiate' is enough.**
+**"'Just why radiate' is enough."**
 
-### Radiations - Mechanistic model of radiations
+### 7) Radiations - Mechanistic model of radiations
 * Lead - ? et al
 * Uber-MESS model (Look at all the things the mess model can doe).
 * Kinds of data:
     * Loads of data
 
-### MESS
+### 8) MESS
 * Lead - Isaac Overcast
 * Depending on what we add this could fold in the mechanistic model from above.
 
-### Review paper on macroecology and paleontology
+### 9) Review paper on macroecology and paleontology
 * Lead - Katie Wagner
 * Review of concepts from paleontology and macroecology and ecological theory
 
-### Do abundant island clades radiate more than rares?
+### 10) Do abundant island clades radiate more than rares?
 * Lead - Andy Rominger
 * Using data from islands to explore whether abundant species radiate more than rare species
+* Does diversity beget diversity?
 * (This could be folded in with the previous idea).
 * Kinds of data:
     * Plot level abundance data
@@ -103,6 +104,5 @@
     * Population genetic data to evaluate constancy of abundance through time
     * Environment too
 
-**I looked at it again and I found it.**
-
-
+**"I looked at it again and I found it."**
+**"Question mark doesn't imply lack of enthusiasm."**
