@@ -17,7 +17,9 @@
 * Abundance/Area, Abundance/Time, Abundance/Speciation/Range Size
 * Katie has some Cichlid data that might be useful for testing this.
 * It would be nice to positively construct a hypothesis relating Abundance/Area/Speciation/Range Size that doesn't just fall out as an emergent property of neutral theory stealing from population genetics theory.
+
 **"You steal from popgen and that's what you get!"**
+
 * SGD should be SED, maybe.
 * Distribution of ancestral abundances that are distributed in a way that makes sense, rather than uniform.
 
@@ -28,10 +30,14 @@
     * Connection to theories of abundance and speciation (neutral theory) and connection to empirical work in paleo.
     * "There's no way to decide without empirical data."
 * For the analyses: HI data, Cichlids, Galapagos gastropods
+
 **"I'm good at making paper outlines."**
+
 * Chichlids
     * Maybe abundance, def phylogenies, good popgen data, good information about what lakes each fish is in, and lake-based "Occupancy by fish"
+
 **"If you lower your standards and start thinking about ecological things...."**
+
     * Is speciation still ongoing?
 
 ## How to bring macroecology back into macroevolution
