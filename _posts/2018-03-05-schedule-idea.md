@@ -81,7 +81,7 @@ This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Pla
 | 3:30 pm  | Coffee break |
 | 4:00 pm  | Discussion - overall insights, next steps, timelines, deliverables |
 | 5:00 pm  | End |
-| 7:00 pm  | Dinner |
+| 7:00 pm  | Dinner reservation in the restaurant [Pata Negra](http://patanegra.de/) - [Walking Directions from sDIV](https://goo.gl/maps/ZjBxccRa7c82) |
 
 # Friday 23 March
 
